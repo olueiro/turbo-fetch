@@ -2,8 +2,7 @@ package = "turbo-fetch"
 version = "0.1-1"
 
 source = {
- url = "",
- branch = "master"
+ url = "git://github.com/olueiro/turbo-fetch.git",
 }
 
 description = {
@@ -11,7 +10,7 @@ description = {
  detailed = [[
 Turbo.lua callback-compatible alternative for turbo.async.HTTPClient():fetch
 ]],
- homepage = "",
+ homepage = "https://github.com/olueiro/turbo-fetch",
  license = "MIT"
 }
 
